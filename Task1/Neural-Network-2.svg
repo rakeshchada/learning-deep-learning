@@ -1,0 +1,52 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="582" height="402" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <defs>
+   <marker orient="auto" markerHeight="4" markerWidth="6" refY="2" refX="6" id="arrowhead">
+    <path id="svg_2" d="m0,0l0,4l6,-2l-6,-2z"/>
+   </marker>
+  </defs>
+  <title>Layer 1</title>
+  <ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="233" cy="107" id="svg_4" rx="19.5" ry="18.5"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="124" cy="173" id="svg_5" rx="19.5" ry="18.5"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="49" cy="184" id="svg_6" rx="19.5" ry="18.5"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="144" cy="91" id="svg_7" rx="19.5" ry="18.5"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="147" cy="266" id="svg_8" rx="19.5" ry="18.5"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="43.5" y="189.5" id="svg_9" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">y</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="118.5" y="178.5" id="svg_10" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">x</text>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="129.5" y="96.5" id="svg_11" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">sig</text>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="225.5" y="113.5" id="svg_12" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">+</text>
+  <line marker-end="url(#arrowhead)" fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="66.5" y1="176.5" x2="126.5" y2="101.5" id="svg_13" stroke-linejoin="null" stroke-linecap="null"/>
+  <line marker-end="url(#arrowhead)" fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="163.5" y1="95.5" x2="212.5" y2="110.5" id="svg_15" stroke-linejoin="null" stroke-linecap="null"/>
+  <line stroke="#000" marker-end="url(#arrowhead)" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="143.500002" y1="166.499999" x2="212.499998" y2="110.500001" id="svg_16" stroke-linejoin="null" stroke-linecap="null"/>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="140.5" y="270.5" id="svg_19" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">+</text>
+  <line marker-end="url(#arrowhead)" fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="142.5" y1="168.5" x2="146.5" y2="247.5" id="svg_20" stroke-linejoin="null" stroke-linecap="null"/>
+  <line marker-end="url(#arrowhead)" fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="66.5" y1="173.5" x2="145.5" y2="248.5" id="svg_21" stroke-linejoin="null" stroke-linecap="null"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="232" cy="166" id="svg_22" rx="19.5" ry="18.5"/>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="216.5" y="170.5" id="svg_23" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">sig</text>
+  <ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="224" cy="266" id="svg_25" rx="19.5" ry="18.5"/>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="211.5" y="274.5" id="svg_26" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">^2</text>
+  <line marker-end="url(#arrowhead)" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="164.499998" y1="266.5" x2="205.5" y2="266.5" id="svg_27" stroke-linejoin="null" stroke-linecap="null" stroke="#000"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="326" cy="220" id="svg_28" rx="19.5" ry="18.5"/>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="318.5" y="226.5" id="svg_29" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">+</text>
+  <line marker-end="url(#arrowhead)" fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="244.5" y1="263.5" x2="306.5" y2="222.5" id="svg_30" stroke-linejoin="null" stroke-linecap="null"/>
+  <line marker-end="url(#arrowhead)" fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="250.5" y1="169.5" x2="306.5" y2="220.5" id="svg_31" stroke-linejoin="null" stroke-linecap="null"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="388" cy="218" id="svg_32" rx="19.5" ry="18.5"/>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="371.5" y="225.5" id="svg_33" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">1/x</text>
+  <line marker-end="url(#arrowhead)" fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="344.5" y1="219.5" x2="368.5" y2="218.5" id="svg_34" stroke-linejoin="null" stroke-linecap="null"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="448" cy="157" id="svg_35" rx="19.5" ry="18.5"/>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="436.5" y="189.5" id="svg_36" font-size="57" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">*</text>
+  <line marker-end="url(#arrowhead)" fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="251.5" y1="106.5" x2="430.5" y2="157.5" id="svg_37" stroke-linejoin="null" stroke-linecap="null"/>
+  <line marker-end="url(#arrowhead)" fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="408.5" y1="215.5" x2="427.5" y2="155.5" id="svg_38" stroke-linejoin="null" stroke-linecap="null"/>
+  <line marker-end="url(#arrowhead)" fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="466.5" y1="155.5" x2="520.5" y2="155.5" id="svg_39" stroke-linejoin="null" stroke-linecap="null"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="491.5" y="146.5" id="svg_40" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">f</text>
+  <line stroke="#000" transform="rotate(-85 179,167) " marker-end="url(#arrowhead)" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="176.694955" y1="130.986681" x2="181.305045" y2="203.013318" id="svg_14" stroke-linejoin="null" stroke-linecap="null"/>
+ </g>
+</svg>
